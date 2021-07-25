@@ -1,0 +1,7 @@
+E:\Practica_VARA\ConstantaLuiEuler\bin\Debug\ConstantaLuiEuler.exe.config
+E:\Practica_VARA\ConstantaLuiEuler\bin\Debug\ConstantaLuiEuler.exe
+E:\Practica_VARA\ConstantaLuiEuler\bin\Debug\ConstantaLuiEuler.pdb
+E:\Practica_VARA\ConstantaLuiEuler\obj\Debug\ConstantaLuiEuler.csprojAssemblyReference.cache
+E:\Practica_VARA\ConstantaLuiEuler\obj\Debug\ConstantaLuiEuler.csproj.CoreCompileInputs.cache
+E:\Practica_VARA\ConstantaLuiEuler\obj\Debug\ConstantaLuiEuler.exe
+E:\Practica_VARA\ConstantaLuiEuler\obj\Debug\ConstantaLuiEuler.pdb
